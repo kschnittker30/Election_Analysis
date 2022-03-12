@@ -24,8 +24,20 @@ The analysis of the election show that:
     -Charles Casper Stockham recieved 23.0% of the vote and 85,213 number of votes.
     -Diana DeGette recieved 73.8% of the vote and 272,892 number of votes.
     -Raymon Anthony Doane recieved 3.1% of the vote and 11,606 number of votes.
--Tje winner of the elecion was:
+-The winner of the elecion was:
     -Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
     
 ## Challenge Overview
+The Colorado Board of Elections has requested additional data to complete the audit of the recent local congressional election.
+
+1. Get a complete list of counties with election results.
+2. Calculate the total numner of votes from each county.
+3. Calculate the percentage of votes from each county.
+4. Determine the county with the most votes cast.
+
 ## Challenge Summary
+-There were 369,711 votes cast during this congressional election.
+-Jefferson county had 38,855 votes with 10.5% of the total votes. Denver county had 306,055 votes with 82.8% of the total votes. Arapahoe county had 24,801 votes with 6.7% of the total votes.
+-Denver county had the largest number of votes cast.
+-Charles Casper Stockham recieved 23.0% of the vote and 85,213 number of votes. Diana DeGette recieved 73.8% of the vote and 272,892 number of votes. Raymon Anthony Doane recieved 3.1% of the vote and 11,606 number of votes.
+![image](https://user-images.githubusercontent.com/99636479/157994775-7f32ea94-639e-4ff6-8bf2-db2efb6cccff.png)
