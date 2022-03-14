@@ -43,7 +43,7 @@ The Colorado Board of Elections has requested additional data to complete the au
 -Diana DeGette won the election with 272,892 votes and 73.8% of the votes.
 
 ###Business Proposal:
-The python code developed for the local congressional election can be utilized to audit other congressional elections. 1.)The "election results" csv file can be updated with new election results from other congressional elections. After updating the csv file, the python code can be run again with the new data. 2.)Another option would be to create new csv files with the name of the local election as "election results-congressional name".csv.  Then the python code would have to be updated to look at the new congressional election csv file.
+The python code developed for the local congressional election can be utilized to audit other congressional elections. 1.)The "election results" csv file can be updated with new election results from other congressional elections. After updating the csv file, the python code can be run again with the new data. 2.)Another option would be to create new csv files with the name of the local election as "election results-congressional name".csv.  Then the python code would have to be updated to look at the new congressional election csv file. The python code opens the csv file in the beginning of the code as shown below.
 ![image](https://user-images.githubusercontent.com/99636479/158105751-a335a871-108e-4c0b-952d-2838c7a78e1d.png)
 
 
