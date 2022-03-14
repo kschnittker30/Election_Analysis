@@ -37,9 +37,13 @@ The Colorado Board of Elections has requested additional data to complete the au
 
 ## Challenge Summary
 -There were 369,711 votes cast during this congressional election.
--Jefferson county had 38,855 votes with 10.5% of the total votes. Denver county had 306,055 votes with 82.8% of the total votes. Arapahoe county had 24,801 votes with 6.7% of the total votes.
--Denver county had the largest number of votes cast.
+![image](https://user-images.githubusercontent.com/99636479/158103920-a07f37c9-dfa7-44b9-828c-21a5afe77a69.png)
+-Denver county had the largest number of votes cast with 306,055 votes and 82.8% of the votes.
 ![image](https://user-images.githubusercontent.com/99636479/157994775-7f32ea94-639e-4ff6-8bf2-db2efb6cccff.png)
 -Diana DeGette won the election with 272,892 votes and 73.8% of the votes.
+
+###Business Proposal:
+The python code developed for the local congressional election can be utilized to audit other congressional elections. 1.)The "election results" csv file can be updated with new election results from other congressional elections. After updating the csv file, the python code can be run again with the new data. 2.)Another option would be to create new csv files with the name of the local election as "election results-congressional name".csv.  Then the python code would have to be updated to look at the new congressional election csv file.
+![image](https://user-images.githubusercontent.com/99636479/158105751-a335a871-108e-4c0b-952d-2838c7a78e1d.png)
 
 
