@@ -5,19 +5,13 @@ Total Votes: 369,711
 -------------------------
 
 County Votes:
+Jefferson: received 38,855 votes and 10.5% of the total votes.
+Denver: received 306,055 votes and 82.8% of the total votes.
+Arapahoe: received 24,801 votes and 6.7% of the total votes.
 -------------------------
-Jefferson county recieved 38,855 votes (10.5%)
--------------------------
--------------------------
-Denver county recieved 306,055 votes (82.8%)
--------------------------
--------------------------
-Arapahoe county recieved 24,801 votes (6.7%)
--------------------------
--------------------------
-Winning County: Arapahoe
-Winning County Vote: 24,801
-Wining County Percentage: (6.7)%
+Winning County: Denver
+Winning County Vote: 306,055
+Wining County Percentage: (82.8)%
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
