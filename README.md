@@ -40,6 +40,7 @@ The Colorado Board of Elections has requested additional data to complete the au
 ![image](https://user-images.githubusercontent.com/99636479/158103920-a07f37c9-dfa7-44b9-828c-21a5afe77a69.png)
 -Denver county had the largest number of votes cast with 306,055 votes and 82.8% of the votes.
 ![image](https://user-images.githubusercontent.com/99636479/157994775-7f32ea94-639e-4ff6-8bf2-db2efb6cccff.png)
+
 -Diana DeGette won the election with 272,892 votes and 73.8% of the votes.
 
 ###Business Proposal:
